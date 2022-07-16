@@ -9,4 +9,5 @@ import (
 func main() {
 	fmt.Println("Hello world!")
 	fmt.Printf("tool.Plus(1, 2): %v\n", tool.Plus(1, 2))
+	fmt.Printf("tool.Mult(4, 5): %v\n", tool.Mult(4, 5))
 }
